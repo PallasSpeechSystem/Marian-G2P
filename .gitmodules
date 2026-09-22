@@ -1,0 +1,6 @@
+[submodule "tools/marian-mnt"]
+	path = tools/marian-mnt
+	url = https://github.com/marian-nmt/marian-dev/
+[submodule "datasets/wikipron"]
+	path = datasets/wikipron
+	url = https://github.com/CUNY-CL/wikipron/
